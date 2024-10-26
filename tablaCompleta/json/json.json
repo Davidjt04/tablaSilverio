@@ -1,0 +1,20 @@
+{
+    "personas":[
+        {
+            "Dni": "12345678h JSON",
+            "Nombre":"Felipe JSON"
+        },
+        {
+            "Dni": "12344078P JSON",
+            "Nombre":"Juanillo JSON"
+        },
+        {
+            "Dni": "09876548O JSON",
+            "Nombre":"David JSON"
+        },
+        {
+            "Dni": "87654321L JSON",
+            "Nombre":"Feliberto JSON"
+        }
+    ]
+}
