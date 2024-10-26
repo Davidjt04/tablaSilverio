@@ -12,7 +12,7 @@ HTMLTableElement.prototype.leerJson = function(json){
     //FORMA EN QUE CREO QUE SE HACE 
     /*Cojo el json lo meto en un array de objetos esos objetos los voy metiendo junto con sus propiedades en las
     filas de mi tabla*/
-
+console.log('cambio');
 }
 
 
